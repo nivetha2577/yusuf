@@ -1,0 +1,5 @@
+{
+  "name": "Grand Horizon Hotel Booking System",
+  "description": "A comprehensive hotel management and booking system with admin dashboard, guest tracking, and SQL export capabilities.",
+  "requestFramePermissions": []
+}
